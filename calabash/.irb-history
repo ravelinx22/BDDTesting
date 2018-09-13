@@ -1,0 +1,7 @@
+query("id")
+query("id")
+start_test_server_in_background
+query("id")
+query("android.support.v7.widget.RecyclerView")
+query("android.support.v7.widget.RecyclerView")
+exit
