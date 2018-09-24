@@ -1,3 +1,3 @@
-# BDTTesting
+# BDDTesting
 
 Behavior Driven Testing Examples
